@@ -1,1 +1,1 @@
-# Sulaiman Annamacharya College
+get init
